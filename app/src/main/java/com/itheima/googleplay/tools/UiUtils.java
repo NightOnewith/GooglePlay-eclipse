@@ -17,6 +17,7 @@ public class UiUtils {
 		return BaseApplication.getApplication().getResources();
 	}
 
+
 	/** dip转换px */
 	public static int dip2px(int dip) {
 		final float scale = getResource().getDisplayMetrics().density;
@@ -29,4 +30,6 @@ public class UiUtils {
 		final float scale = getResource().getDisplayMetrics().density;
 		return (int) (px / scale + 0.5f);
 	}
+
+
 }

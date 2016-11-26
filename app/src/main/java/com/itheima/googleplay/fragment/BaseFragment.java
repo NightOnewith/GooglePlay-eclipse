@@ -38,7 +38,7 @@ public abstract class BaseFragment extends Fragment {
         }else{
             ViewUtils.removeParent(frameLayout);// 移除frameLayout之前的爹
         }
-//        show();// 根据服务器的数据 切换状态
+        //show();// 根据服务器的数据 切换状态
         //  先干掉之前的爹
 
         return frameLayout;  //  拿到当前viewPager 添加这个framelayout
@@ -112,14 +112,10 @@ public abstract class BaseFragment extends Fragment {
                         FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT));
                 successView.setVisibility(View.VISIBLE);
             }
-        } else {
-            if(successView != null){
-                successView.setVisibility(View.INVISIBLE);
-            }
         }
     }
 
-    /* 创建成功界面 */
+    /* 创建了成功的界面 */
     public abstract View createSuccessView();
     /* 请求服务器 */
     protected abstract LoadResult load();
