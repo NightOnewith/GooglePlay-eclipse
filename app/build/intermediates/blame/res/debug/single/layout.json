@@ -12,12 +12,12 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
-    },
-    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",

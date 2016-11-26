@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.itheima.googleplay.protocol.HomeProtocol;
+
 public class HomeFragment extends BaseFragment {
 
 	//当Fragment挂载的Activity创建的时候调用
@@ -21,7 +23,8 @@ public class HomeFragment extends BaseFragment {
 	}
 
 	public LoadResult load() {
-
+		HomeProtocol protocol = new HomeProtocol();
+		protocol.load(0);
 		return LoadResult.success;
 	}
 

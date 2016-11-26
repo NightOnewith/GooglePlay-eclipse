@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\AndroidStudio\Androidsdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0871adf718d0dd4a004d00aabbd5cbdb5b13dbea\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_92bbec499ba4df36fc128dc3c8eaa5d22958fdc0\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a626b4aacc5f746f103aadcab9be38234ca3b480">
+        <dex dex="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_77997caa1b814637d03c6a1006a1a45728d0236e\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_80d13317681297719c66923c0e08a085c1ca47d2\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="1cde6c55375bee6ed65c8151dd8b3590cc9a3785">
+        <dex dex="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00b07b2e61a7febd8b66b8cd7656852ee0204795\classes.dex" />
+    </item>
+
+</items>

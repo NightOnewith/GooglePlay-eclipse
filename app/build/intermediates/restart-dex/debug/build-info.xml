@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="17"
-    density="xhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="20640254283271"
+    timestamp="24459305009183"
     token="-3030504334547253992" >
 
     <task
@@ -20,14 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="20640254283271" >
+    <build timestamp="24358776943246" >
         <artifact
             location="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="24459305009183" />
 
 </instant-run>
