@@ -3,14 +3,12 @@ package com.itheima.googleplay.fragment;
 import java.util.HashMap;
 import java.util.Map;
 
-import android.support.v4.app.Fragment;
-
 public class FragmentFactory {
 
-	private static Map<Integer, Fragment> mFragments = new HashMap<Integer, Fragment>();
+	private static Map<Integer, BaseFragment> mFragments = new HashMap<Integer, BaseFragment>();
 
-	public static Fragment createFragment(int position) {
-		Fragment fragment = null;
+	public static BaseFragment createFragment(int position) {
+		BaseFragment fragment = null;
 		fragment = mFragments.get(position);  //在集合中取出来Fragment
 		if (fragment == null) {  //如果再集合中没有取出来 需要重新创建
 			if (position == 0) {

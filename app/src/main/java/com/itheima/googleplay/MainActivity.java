@@ -1,6 +1,7 @@
 package com.itheima.googleplay;
 
 import com.itheima.googleplay.fragment.AppFragment;
+import com.itheima.googleplay.fragment.BaseFragment;
 import com.itheima.googleplay.fragment.CategoryFragment;
 import com.itheima.googleplay.fragment.FragmentFactory;
 import com.itheima.googleplay.fragment.GameFragment;
@@ -59,12 +60,12 @@ public class MainActivity extends BaseActivity implements
 			@Override
 			public void onDrawerClosed(View drawerView) {
 				super.onDrawerClosed(drawerView);
-				Toast.makeText(getApplicationContext(), "抽屉关闭了", 0).show();
+				Toast.makeText(getApplicationContext(), "抽屉关闭了", Toast.LENGTH_SHORT).show();
 			}
 			@Override
 			public void onDrawerOpened(View drawerView) {
 				super.onDrawerOpened(drawerView);
-				Toast.makeText(getApplicationContext(), "抽屉打开了", 0).show();
+				Toast.makeText(getApplicationContext(), "抽屉打开了",  Toast.LENGTH_SHORT).show();
 			}
 
 		};
@@ -88,6 +89,14 @@ public class MainActivity extends BaseActivity implements
 		pager_tab_strip.setTabIndicatorColor(getResources().getColor(R.color.indicatorcolor));
 
 		mViewPager.setAdapter(new MainAdpater(getSupportFragmentManager()));
+		mViewPager.setOnPageChangeListener(new ViewPager.SimpleOnPageChangeListener(){
+			@Override
+			public void onPageSelected(int position) {
+				super.onPageSelected(position);
+				BaseFragment createFragment = FragmentFactory.createFragment(position);
+				createFragment.show(); //当切换界面的时候。重新请求服务器
+			}
+		});
 		//sendBroadcast(new Intent("com.itheima.google.killall"));
 		//Log.i(tag, msg)
 	}
@@ -133,7 +142,7 @@ public class MainActivity extends BaseActivity implements
 	/** 处理actionBar菜单条目的点击事件 */
 	public boolean onOptionsItemSelected(MenuItem item) {
 		if (item.getItemId() == R.id.action_search) {
-			Toast.makeText(getApplicationContext(), "搜索", 0).show();
+			Toast.makeText(getApplicationContext(), "搜索",  Toast.LENGTH_SHORT).show();
 		}
 		return drawerToggle.onOptionsItemSelected(item)|super.onOptionsItemSelected(item);
 	}
@@ -141,7 +150,7 @@ public class MainActivity extends BaseActivity implements
 	// 当搜索提交的时候
 	@Override
 	public boolean onQueryTextSubmit(String query) {
-		Toast.makeText(getApplicationContext(), query, 0).show();
+		Toast.makeText(getApplicationContext(), query,  Toast.LENGTH_SHORT).show();
 		return true;
 	}
 	// 当搜索的文本发生变化

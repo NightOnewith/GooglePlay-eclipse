@@ -4,7 +4,7 @@
     api-level="17"
     density="xhdpi"
     format="7"
-    timestamp="39273990739707"
+    timestamp="15156499794738"
     token="-3030504334547253992" >
 
     <task
@@ -24,7 +24,7 @@
         location="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="39273990739707" >
+    <build timestamp="15156499794738" >
         <artifact
             location="D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

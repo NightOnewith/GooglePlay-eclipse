@@ -1,0 +1,8 @@
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\fragment\HomeFragment$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\MainActivity$1$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\fragment\BaseFragment$1$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\MainActivity$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\fragment\BaseFragment$2$1$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\MainActivity$MainAdpater$override.class
+CHANGED,D:\AndroidStudio\workspace\GooglePlay-eclipse\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\itheima\googleplay\fragment\BaseFragment$override.class
