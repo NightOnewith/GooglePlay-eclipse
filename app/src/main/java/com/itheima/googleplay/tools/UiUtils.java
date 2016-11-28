@@ -1,8 +1,11 @@
 package com.itheima.googleplay.tools;
 
+import android.content.Context;
 import android.content.res.Resources;
 
 import com.itheima.googleplay.BaseApplication;
+
+import java.io.File;
 
 public class UiUtils {
 	/**
@@ -15,6 +18,10 @@ public class UiUtils {
 
 	public static Resources getResource() {
 		return BaseApplication.getApplication().getResources();
+	}
+
+	public static Context getContext(){
+		return BaseApplication.getApplication();
 	}
 
 
@@ -30,6 +37,5 @@ public class UiUtils {
 		final float scale = getResource().getDisplayMetrics().density;
 		return (int) (px / scale + 0.5f);
 	}
-
 
 }
