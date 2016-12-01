@@ -23,8 +23,8 @@ public class FileUtils {
         } else {
             File filesDir = UiUtils.getContext().getCacheDir();//得到cache
             path.append(filesDir.getAbsolutePath());//  /data/data/com.itheima.googleplay/cache
-            path.append(File.separator);
-            path.append(str);
+            path.append(File.separator);//  /data/data/com.itheima.googleplay/cache/
+            path.append(str);//  /data/data/com.itheima.googleplay/cache/cache
         }
         File file = new File(path.toString());
         if (!file.exists() || !file.isDirectory()) {
