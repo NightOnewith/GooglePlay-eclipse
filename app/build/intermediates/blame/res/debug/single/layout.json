@@ -112,6 +112,10 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
     },
     {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app.xml",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\layout\\item_app.xml"
+    },
+    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },

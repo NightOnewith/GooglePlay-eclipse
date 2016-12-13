@@ -106,12 +106,12 @@ public abstract class BaseFragment extends Fragment {
                     : View.INVISIBLE);
         }
         if (state == STATE_SUCCESS) {
-            successView = createSuccessView();
-            if (successView != null) {
+            if (successView == null) {
+                successView = createSuccessView();
                 frameLayout.addView(successView, new FrameLayout.LayoutParams(
                         FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT));
-                successView.setVisibility(View.VISIBLE);
             }
+            successView.setVisibility(View.VISIBLE);
         }
     }
 

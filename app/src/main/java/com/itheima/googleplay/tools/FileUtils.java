@@ -9,6 +9,7 @@ import java.io.File;
  */
 public class FileUtils {
     public static final String CACHE = "cache";
+    public static final String ICON = "icon";
     public static final String ROOT = "GooglePlay";
 
     public static File getDir(String str) {
@@ -35,6 +36,7 @@ public class FileUtils {
 
     /**
      * 判断是否是SD卡
+     *
      * @return
      */
     private static boolean isSDAvailable() {
@@ -45,7 +47,19 @@ public class FileUtils {
         }
     }
 
+    /**
+     * 获取缓存路径
+     *
+     * @return
+     */
     public static File getCacheDir() {
         return getDir(CACHE);// /mnt/sdcard/GooglePlay/cache
+    }
+
+    /**
+     * 获取图片缓存路径
+     */
+    public static File getIconDir() {
+        return getDir(ICON);
     }
 }

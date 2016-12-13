@@ -48,6 +48,10 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable\\btn_bg.xml"
     },
     {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\process_ratingbar.xml",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable\\process_ratingbar.xml"
     },
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",

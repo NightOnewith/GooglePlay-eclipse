@@ -100,6 +100,10 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.9.png"
     },
     {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rating_small_half.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\rating_small_half.png"
+    },
+    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
     },
@@ -172,6 +176,10 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
     },
     {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_default.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
     },
@@ -224,6 +232,10 @@
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
     },
     {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rating_small_empty.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\rating_small_empty.png"
+    },
+    {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
     },
@@ -234,6 +246,10 @@
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rating_small_full.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\rating_small_full.png"
     },
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
@@ -278,6 +294,10 @@
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_download.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\ic_download.png"
     },
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
@@ -330,6 +350,10 @@
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
         "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg_pressed.9.png",
+        "source": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_pressed.9.png"
     },
     {
         "merged": "D:\\AndroidStudio\\workspace\\GooglePlay-eclipse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
